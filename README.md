@@ -60,3 +60,10 @@ KasperskyOS is an operating system with Kaspersky Cyber Immunity properties for 
 ## Hardware
 
 - Raspberry Pi 4 Model B hardware platform (Revision 1.5)
+
+## Instant Messaging
+
+### In Russian
+
+- [KasperskyOS Telegram Development channel](https://t.me/kosdevs)
+- [Learning Cyber Immunity Telegram channel](https://t.me/learning_cyberimmunity)
